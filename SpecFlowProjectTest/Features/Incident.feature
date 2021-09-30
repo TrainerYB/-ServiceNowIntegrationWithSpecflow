@@ -1,5 +1,5 @@
 ﻿Feature: Incident
-	Simple calculator for adding two numbers
+	For all incident related operations
 
 @ValidUser
 Scenario: Validate the user authentication
